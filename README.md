@@ -27,7 +27,7 @@ Suburban:
  
 The rural city is last for totals rides, drivers,and fares, and highest average fare per ride and highest fare per driver.
 
-* Rural:
+Rural:
 * Total Rides: 125 
 * Total Drivers: 78
 * Total Fares: $4,327.93
